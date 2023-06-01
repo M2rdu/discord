@@ -166,4 +166,4 @@ async def on_message(message):
 
 
 client.run(
-    'MTA5NjAzNDMzMTM0MTkwMTg3NQ.GCi3_z.KwlAi4YWt8cSTjBEbwYj4QeDjWnxTP-9GDWcww')
+    'your_token_here')
